@@ -1,8 +1,11 @@
-# Enunciado: (Modulo_OpenTel...)
+# Enunciado de la actividad en: (Modulo_OpenTelemetry...)
 
-# Carpeta descargada + carpeta docker-compose/ añadida para la realización (SampleFlask)
+# LA ACTIVIDAD: Carpeta descargada (SampleFlask) + carpeta añadida para la realización (SampleFlask/docker-compose/)
 
-# Instrucciones para replicar y CAPTURAS pedidas (capturasYpasos)
+# Instrucciones para replicar y CAPTURAS pedidas (capturasYpasos.odt)
+
+* Aqui dejo también las instrucciones y un pdf con las capturas para poder visualizarlo desde github:
+
 
 Instrucciones para replicarlo:
 
