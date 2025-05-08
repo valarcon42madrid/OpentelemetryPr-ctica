@@ -1,0 +1,11 @@
+Flask==3.0.0
+pymongo==3.12.1
+opentelemetry-sdk 
+opentelemetry-api
+opentelemetry-instrumentation-flask
+opentelemetry-instrumentation-requests
+opentelemetry-instrumentation-pymongo
+opentelemetry-exporter-otlp
+requests==2.26.0
+opentelemetry-distro==0.43b0
+opentelemetry-exporter-otlp==1.22.0
