@@ -1,5 +1,2 @@
-nohup: ignoring input
- * Serving Flask app 'app'
- * Debug mode: off
-Address already in use
-Port 5002 is in use by another program. Either identify and stop that program, or start the server with a different port.
+* Si hubiese logs aquí se verían reflejados (de igual manera que en el output del contenedor que contiene Sample-Flask).
+REALMENTE LA APP NO PRODUCE LOGS.
